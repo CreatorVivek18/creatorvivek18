@@ -45,7 +45,11 @@
 <br />
 <br />
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=creatorvivek18&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creatorvivek18&show_icons=true&locale=en&layout=compact" alt="creatorvivek18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creatorvivek18&show_icons=true&locale=en" alt="creatorvivek18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creatorvivek18&" alt="creatorvivek18" /></p>
 
 [website]: https://mekken2.github.io/](https://creatorvivek.com/
 [twitter]: https://twitter.com/creatorvivek18
