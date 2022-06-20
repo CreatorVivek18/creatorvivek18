@@ -1,11 +1,11 @@
 ### Hi there, I am Vivek👋
 
-🔭 I’m currently working on a portfolio website.
-🌱 I’m currently learning C and C++.
-👯 I’m looking to collaborate with other developers.
-💬 Ask me about programming and logic building.
-😄 Pronouns: He/His
-⚡ Fun fact: HTML id not a Programming Language.
+- 🔭 I’m currently working on a portfolio website.
+- 🌱 I’m currently learning C and C++.
+- 👯 I’m looking to collaborate with other developers.
+- 💬 Ask me about programming and logic building.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: HTML id not a Programming Language.
 
 ### Connect with me:
 
