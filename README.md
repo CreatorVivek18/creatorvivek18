@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about programming and logic building.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: HTML id not a Programming Language.
+- ⚡ Fun fact: HTML is not a Programming Language.
 
 ### Connect with me:
 
