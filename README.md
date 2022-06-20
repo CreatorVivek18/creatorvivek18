@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C and C++.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about programming and logic building.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His.
 - ⚡ Fun fact: HTML is not a Programming Language.
 
 ### Connect with me:
