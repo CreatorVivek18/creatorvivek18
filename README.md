@@ -1,4 +1,5 @@
-### Hi there, I am Vivek👋
+<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h3 align="center">I'm a Student, Programmer and a Curious Learner.</h3>
 
 - 🔭 I’m currently working on a portfolio website.
 - 🌱 I’m currently learning C and C++.
