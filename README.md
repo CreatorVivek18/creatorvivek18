@@ -52,7 +52,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creatorvivek18&" alt="creatorvivek18" /></p>
 
-[website]: https://mekken2.github.io/](https://creatorvivek.com/
+[website]: https://creatorvivek.com/
 [twitter]: https://twitter.com/creatorvivek18
 [youtube]: https://www.youtube.com/channel/UCmlRXYClcLe5oo7AUJxS05Q/featured
 [instagram]: https://www.instagram.com/_vivek.kr__/
