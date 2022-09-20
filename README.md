@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student, Programmer and a Curious Learner.</h3>
 
 - 🔭 I’m currently working on a portfolio website.
-- 🌱 I’m currently learning C and C++.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about programming and logic building.
 - 😄 Pronouns: He/His.
