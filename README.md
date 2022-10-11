@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">I'm a Student, Programmer and a Curious Learner.</h3>
+<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h3 align="center">I'm a Student, Programmer and a Developer</h3>
 
 - 🔭 I’m currently working on a portfolio website.
 - 🌱 I’m currently learning Data Structures and Algorithms.
