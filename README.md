@@ -46,10 +46,11 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=volatile-viv&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="volatile-viv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volatile-viv&show_icons=true&theme=radical&locale=en&layout=compact" alt="volatile-viv" /></p>
 
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volatile-viv&show_icons=true&theme=highcontrast&locale=en" alt="volatile-viv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volatile-viv&show_icons=true&theme=radical&locale=en" alt="volatile-viv" /></p>
 
 <br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=volatile-viv&theme=highcontrast" alt="volatile-viv" /></p>
