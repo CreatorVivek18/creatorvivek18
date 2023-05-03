@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">I'm a Student, Programmer and a Developer</h3>
 
-- 🔭 I’m currently working on a portfolio website.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🔭 I’m currently working on a some websites.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about programming and logic building.
 - 😄 Pronouns: He/His.
