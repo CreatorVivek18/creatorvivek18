@@ -18,8 +18,8 @@
 <a href="https://twitter.com/creatorvivek18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="creatorvivek18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/creatorvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="creatorvivek" height="30" width="40" /></a>
 <a href="https://instagram.com/_vivek.kr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vivek.kr__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/volatileviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/volatileviv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/http://leetcode.com/volatileviv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="http://leetcode.com/volatileviv/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/volatileviv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/volatileviv" height="30" width="40" /></a>
+<a href="https://leetcode.com/Vivek_kumar18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vivek_kumar18/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
